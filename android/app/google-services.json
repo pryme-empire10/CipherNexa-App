@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268389268593",
+    "project_id": "ciphernexa-3c743",
+    "storage_bucket": "ciphernexa-3c743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268389268593:android:8d5cff3725aca61a586fd0",
+        "android_client_info": {
+          "package_name": "com.example.ciphernexa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM0rtVriIqQ6hA5JHWrqidRZgryJzYTCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

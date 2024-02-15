@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resource>
+    <string name="app_name">Ciphernexa</string>
+    <string name="facebook_app_id">264673223321970</string>
+    <string name="fb_login_protocol_scheme">fb264673223321970</string>
+    <string name="facebook_client_token">534e9adaf0263bdf5f7aa31938d1311a</string>
+</resource>
+

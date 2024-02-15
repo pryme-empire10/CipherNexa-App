@@ -1,16 +1,8 @@
 # ciphernexa
 
-A new Flutter project.
+An authentication app that lets you sign in and sign up using firebase. 
+You can also sign in with google.
 
-## Getting Started
+<img src="https://github.com/pryme-empire10/CipherNexa-App/assets/65182511/112d3294-a979-4695-a2a2-334d54e20da0" width="300" height="500">
+<img src="https://github.com/pryme-empire10/CipherNexa-App/assets/65182511/661b08bc-c48d-41e6-8d2d-cd7470c4b61d" width="300" height="500">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
